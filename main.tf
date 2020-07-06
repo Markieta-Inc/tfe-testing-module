@@ -1,3 +1,3 @@
 module "testing-provisioner" {
-  source = "git@github.com:Markieta-Inc/tfe-testing-provisioners.git"
+  source = "github.com/Markieta-Inc/tfe-testing-module.git"
 }
