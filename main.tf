@@ -3,5 +3,5 @@ module "testing-provisioner" {
 }
 
 module "testing-provisioner-2" {
-  source = "github.com/Markieta-Inc/tfe-testing-provisioners.git"
+  source = "github.com/Markieta-Inc/tfe-testing-provisioners.git?ref=v0.0.1"
 }
